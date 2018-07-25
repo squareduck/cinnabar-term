@@ -1,0 +1,8 @@
+[package]
+name = "cinnabar-term"
+version = "0.1.0"
+authors = ["squareduck <danvelduck@gmail.com>"]
+
+[dependencies]
+cinnabar = { path = "../cinnabar" }
+termion = "*"
